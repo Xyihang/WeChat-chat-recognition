@@ -1,8 +1,10 @@
 # 微信聊天记录识别工具
 
 一个基于 AI 的微信聊天记录截图识别工具，支持自动识别聊天内容并导出为文本或 Word 文档。
+
 目前还在处理上传GitHub的代码安全问题，但已经部署到railway上
 
+https://wechat-production-ed2c.up.railway.app/
 
 ## 功能特性
 
